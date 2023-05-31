@@ -1,30 +1,23 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Hotel Punta Guadalupe
+featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+subtitle: San Cristóbal de las Casas
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Hotel Punta Guadalupe
+  title: Hotel Punta Guadalupe
 ---
+**Descripción**
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Un hotel accesible y bien ubicado OYO Hotel Punta Guadalupe te ofrece una estancia cómoda y agradable. Este hotel está ubicado en San Cristobal De Las Casas , a 1.05 milesde distancia de Plaza 31 de Marzo Está ubicado a solo 0.13 miles Desde Garden Coffee. Una mezcla ideal de comodidad y tranquilidad, este hotel cuenta con interiores estandarizados y las amenidades básicas esenciales. Todo lo que necesitas para disfrutar tu estancia ya está incluido.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+**Servicios e instalaciones**
 
-# Features
+**Televisión**
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+**Wifi gratis**
 
-## Get started
+**Cama queen size**
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+**Pago con tarjeta**

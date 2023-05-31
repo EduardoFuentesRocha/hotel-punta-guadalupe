@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Hotel Punta Guadalupe
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+featuredImage: https://ucarecdn.com/e574fd9a-0b21-41b9-9498-fbf73ae0e2ae/
 subtitle: San Cristóbal de las Casas
 meta:
   description: Hotel Punta Guadalupe
